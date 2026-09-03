@@ -4,6 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
+
 <b>I am a Data Analyst focused on turning raw data into meaningful insights and supporting data-driven decisions. I have experience working with real-world business scenarios and applying analytical techniques to solve data-driven problems.
 
 I have worked on end-to-end analytics projects involving data cleaning, exploratory data analysis, SQL-based analysis, KPI tracking, data visualization, dashboard development, and predictive analysis.
