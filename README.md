@@ -33,7 +33,7 @@ I enjoy exploring data, identifying meaningful patterns, and communicating insig
 ---
 
 
-### 🤝 Let's Connect
+### 🤝 Socials
 
 **Open to learning, collaboration, and Data Analytics opportunities.**
 <br>
