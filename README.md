@@ -12,7 +12,10 @@
 
 # 🌐 Socials
 
+## 🤝 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amit-sharma-5b22612ab)
+[![Email](https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitlsharma2004@gmail.com)
 
 ---
 
