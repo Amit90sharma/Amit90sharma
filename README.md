@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <b>I am a Data Analyst focused on turning raw data into meaningful insights and supporting data-driven decisions. I have experience working with real-world business scenarios and applying analytical techniques to solve data-driven problems.
 
