@@ -1,4 +1,3 @@
-# 👋 Hi, I'm [Your Name]
 
 ### 📊 Data Analyst | SQL • Python • Power BI • Excel | Business & Predictive Analytics
 
