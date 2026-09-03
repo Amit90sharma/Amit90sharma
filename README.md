@@ -1,13 +1,9 @@
 
 
-### 📊 Data Analyst | SQL • Python • Power BI • Excel
-
-Turning data into insights, decisions, and measurable impact.
-
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a **Data Analyst** focused on data analysis, visualization, and business intelligence.  
 I enjoy working with data to uncover patterns, generate insights, and support better decisions.
