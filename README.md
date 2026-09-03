@@ -1,15 +1,9 @@
-<div align="center">
 
-# 👋 Hi, I'm Amit Sharma
 
 ### 📊 Data Analyst | SQL • Python • Power BI • Excel
 
 Turning data into insights, decisions, and measurable impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/amit-sharma-5b22612ab)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amitlsharma2004@gmail.com)
-
-</div>
 
 ---
 
@@ -46,22 +40,21 @@ I enjoy working with data to uncover patterns, generate insights, and support be
 
 ---
 
+
+### 🤝 Let's Connect
+
+**Open to learning, collaboration, and Data Analytics opportunities.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/amit-sharma-5b22612ab)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amitlsharma2004@gmail.com)
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amit90sharma&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit90sharma&layout=compact&hide_border=true" height="165"/>
 
-</div>
+
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect
-
-**Open to learning, collaboration, and Data Analytics opportunities.**
-
-</div>
