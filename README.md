@@ -12,8 +12,15 @@
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amit-sharma-5b22612ab)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitlsharma2004@gmail.com)
+<a href="[linkedin.com](https://linkedin.com/in/https://www.linkedin.com/in/sarvesh-jathar-04947b314/) " rel="nofollow">
+  <img src="[camo.githubusercontent.com](https://camo.githubusercontent.com/bd67bf4......3742352)" alt="LinkedIn" data-canonical-src="[img.shields.io](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" style="max-width: 100%;">
+</a>
+
+<a href="[x.com](https://x.com/@sarvesh_jathar)" rel="nofollow"> ... </a>
+
+<a href="mailto:sarveshjathar448@gmail.com">
+  <img src="[camo.githubusercontent.com](https://camo.githubusercontent.com/52a173d......61696c2)" alt="email" data-canonical-src="[img.shields.io](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" style="max-width: 100%;">
+</a>
 
 ---
 
