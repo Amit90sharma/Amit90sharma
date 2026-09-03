@@ -12,7 +12,7 @@ I enjoy working with data to uncover patterns, generate insights, and support be
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,14 +25,6 @@ I enjoy working with data to uncover patterns, generate insights, and support be
 
 </div>
 
----
-
-## 🎯 Currently Focused On
-
-📌 Advanced SQL & Data Analysis  
-📌 Power BI & DAX  
-📌 Statistics & Business Analytics  
-📌 Predictive Analytics  
 
 ---
 
