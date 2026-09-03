@@ -4,9 +4,13 @@
 ---
 
 ### 👨‍💻 About Me
+I am a Data Analyst focused on turning raw data into meaningful insights and supporting data-driven decisions. I have experience working with real-world business scenarios and applying analytical techniques to solve data-driven problems.
 
-I'm a **Data Analyst** focused on data analysis, visualization, and business intelligence.  
-I enjoy working with data to uncover patterns, generate insights, and support better decisions.
+I have worked on end-to-end analytics projects involving data cleaning, exploratory data analysis, SQL-based analysis, KPI tracking, data visualization, dashboard development, and predictive analysis.
+
+I work with tools including SQL, Python, Power BI, Excel, and Tableau, and I am continuously strengthening my skills in statistics, business analytics, and predictive analytics.
+
+I enjoy exploring data, identifying meaningful patterns, and communicating insights that can help businesses make better decisions.
 
 ---
 
